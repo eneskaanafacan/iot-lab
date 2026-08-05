@@ -35,7 +35,7 @@ ile canlıya alınmıştır.
 |---|---|---|
 | **Enes Kaan Afacan** | Sistem mimari tasarımı, sunucu ve border router yönetimi, dağıtım altyapısı, yazılım geliştirme, Nginx, Dokku, Linux, Spring Boot, Flask, Python, Certbot, Telegram API | [![GitHub](https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white)](https://github.com/eneskaanafacan) [![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-kaan-afacan-a60b32259/) |
 | **Baran Ar** | Backend Developer, Ekip ve Proje Yönetimi, Java, Spring Boot, MongoDB, JWT, REST API, Yazılım Mimarisi (MVC) | [![GitHub](https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white)](https://github.com/baranar) [![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baranar/) |
-| **Ayşegül Çemç** | Frontend Developer, Angular, Chart.js, Tailwind CSS, Responsive Tasarım, Figma/Canva, UI, HTML/CSS | [![GitHub](https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysegulcemc/) |
+| **Ayşegül Çemç** | Frontend Developer, Angular, Chart.js, Tailwind CSS, Responsive Tasarım, Figma/Canva, UI, HTML/CSS | [![GitHub](https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white)](https://github.com/Aysegul-Cemc) [![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysegulcemc/) |
 
 ## Örnek Görseller
 
