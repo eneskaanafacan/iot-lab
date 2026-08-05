@@ -112,6 +112,7 @@ flowchart LR
 | **Altyapı ve işletim** | |
 | [10-server-setup.md](docs/10-server-setup.md) | Ubuntu sunucu kurulumu |
 | [11-dokku-paas.md](docs/11-dokku-paas.md) | Dokku PaaS |
+| [12-nginx-gateway.md](docs/12-nginx-gateway.md) | Path bazlı yönlendirme, ters vekil yapılandırması |
 
 ## Geliştirme Süreci Hakkında
 
