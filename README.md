@@ -113,6 +113,15 @@ flowchart LR
 | [10-server-setup.md](docs/10-server-setup.md) | Ubuntu sunucu kurulumu |
 | [11-dokku-paas.md](docs/11-dokku-paas.md) | Dokku PaaS |
 
+## Geliştirme Süreci Hakkında
+
+Sistemin tasarımı, geliştirilmesi, dağıtım
+altyapısı ve mimari kararlar ekibimiz tarafından yürütülmüştür.
+Yazılım geliştirme ve bu dokümantasyonun hazırlanması aşamalarında
+yapay zekâ araçlarından yararlanılmıştır; üretilen içerik kaynak
+kod, sunucu kayıtları ve proje raporuyla karşılaştırılarak
+doğrulanmış ve tarafımızca gözden geçirilmiştir.
+
 ## Depo Yapısı
 
 ```
