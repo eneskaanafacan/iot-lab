@@ -1,0 +1,21 @@
+# Ortam degiskenleri
+.env
+application-local.properties
+
+# Backend derleme ciktisi
+target/
+*.class
+
+# Frontend derleme ciktisi / bagimliliklar
+node_modules/
+dist/
+
+# Loglar
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# Isletim sistemi
+.DS_Store

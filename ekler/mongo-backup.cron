@@ -1,0 +1,5 @@
+# Her gün gece 03:00'te çalışır, çıktı/hata backup.log'a değil
+# ayrı bir cron.log'a da yazılır (script içindeki backup.log'a ek
+# olarak, cron'un kendi çalıştırma hatalarını da yakalamak için).
+
+0 3 * * * /bin/bash /root/backup-mongo.sh >> /var/backups/mongo/cron.log 2>&1
