@@ -84,7 +84,7 @@ flowchart LR
 | Sunucu işletim sistemi | Ubuntu Server 24.04.2 LTS |
 | Bildirim | Telegram Bot API |
 
-## Öne Çıkan Noktalar
+## Öne Çıkan/İncelenmesini Önerdiğim Noktalar 
 
 - Dökümanın omurgası niteliğinde sistem mimari yapısı (bkz. [03-system-architecture.md §6](docs/03-system-architecture.md#6-dört-sistem-tipi-ve-domain-agnostic-tasarım))
 - Kamuya açık üniversite alan adı (`iotlab.omu.edu.tr`) üzerinden HTTPS ile yayın
