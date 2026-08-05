@@ -9,14 +9,12 @@ Aşağıda sistemin paydaş tanımlamaları yapılmıştır.
 
 - **Son kullanıcı / laboratuvar araştırmacısı/ öğrenci:** Sistemin JWT ile
   korumalı `/dashboard`, `/history`, `/node` sayfalarına giriş yapıp
-  sensör verilerini gözlemleyen kişi. Kod tabanında bu rol için tek bir
-  seviye var —`admin`/`normal kullanıcı` ayrımı yok (bkz.
-  [15-security.md §3](15-security.md#3-erişim-ve-yetkilendirme));
+  sensör verilerini gözlemleyen kişi.
 
 - **Veri kaynağı (insan değil):** Fiziksel sensör düğümü (Border
   Router üzerinden) ve mock veri üreticileri, kimlik doğrulaması
   istemeyen `*/data` uçlarına POST atan otomatik istemcilerdir (bkz.
-  [06-data-pipeline.md §5](06-data-pipeline.md#5-veri-alım-uçları)).
+  [06-data-pipeline.md](06-data-pipeline.md#)).
 
 - **Sistem yöneticisi / geliştiriciler:** Sunucuya SSH ile erişen, Dokku
   deployment'ını ve Nginx yapılandırmasını yöneten kişi/kişiler.
